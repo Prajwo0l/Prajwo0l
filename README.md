@@ -1,9 +1,18 @@
-### Prajwol Lamichhane
+<div align="center">
+
+# Prajwol Lamichhane
 
 Building LLM systems end to end — from transformers written from scratch
 to production RAG deployments and eval-driven infrastructure.
 
-**Some things I've built:**
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lamichhane.prajwool@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Prajwo0l)
+
+</div>
+
+---
+
+### Some things I've built
 
 - [llm-router](https://github.com/Prajwo0l/llm-router) — an eval-driven
   LLM gateway that routes each prompt to the cheapest model tier likely
@@ -21,6 +30,8 @@ to production RAG deployments and eval-driven infrastructure.
 - [Fine-Tuned-Model](https://github.com/Prajwo0l/Fine-Tuned-Model) — LLM
   fine-tuning experiments (QLoRA, SFT, DPO) on TinyLlama, trained on free
   Colab GPUs.
+
+---
 
 ### Skills
 
@@ -41,4 +52,17 @@ to production RAG deployments and eval-driven infrastructure.
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-Reach me at lamichhane.prajwool@gmail.com
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Prajwo0l&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prajwo0l&show_icons=true&count_private=true&theme=default&hide_border=true" width="49%" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwo0l&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwo0l&layout=compact&theme=default&hide_border=true" width="35%" />
+</picture>
+
+</div>
