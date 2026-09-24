@@ -18,15 +18,29 @@ to production RAG deployments and eval-driven infrastructure.
   LLM gateway that routes each prompt to the cheapest model tier likely
   to answer it well, with a semantic cache, fallback across providers,
   and a benchmark harness to prove the cost savings are real.
+- [Pattie](https://github.com/Prajwo0l/LangGraph-Core-Components/tree/main/Chatbot) —
+  a personal AI assistant with an intent-routing graph, persistent
+  multi-thread conversations, RAG over uploaded PDFs, short- and
+  long-term memory (FAISS-backed), expense tracking with Google Calendar
+  integration, and human-in-the-loop approval flows. Streamlit frontend.
 - [llm-inference-lab](https://github.com/Prajwo0l/llm-inference-lab) — a
   GPT-style decoder-only transformer built from scratch in pure PyTorch,
   with a KV cache implemented and benchmarked against naive generation.
 - [Medical-Chatbot](https://github.com/Prajwo0l/Medical-Chatbot) — a RAG
   chatbot answering questions from real medical documents, deployed on
   AWS with full CI/CD.
-- [LangGraph-Core-Components](https://github.com/Prajwo0l/LangGraph-Core-Components) —
-  includes Pattie, a personal AI assistant with intent routing,
-  short/long-term memory, and MCP tool integrations.
+- [Research-Agent](https://github.com/Prajwo0l/Research-Agent) — a
+  modular, agent-based system for end-to-end academic research and
+  long-form writing, with three independent components coordinated by a
+  central orchestrator.
+- [ai-resume-analyzer](https://github.com/Prajwo0l/ai-resume-analyzer) —
+  analyzes resumes against job descriptions to detect skill gaps, match
+  scores, and improvement suggestions, running entirely locally with NER
+  and local LLMs.
+- [MCP-Server](https://github.com/Prajwo0l/MCP-Server) — a local-first
+  Model Context Protocol server for expense tracking, exposing tools any
+  MCP-compatible client can call, with Google Calendar sync and a
+  budget/alerts system.
 - [Fine-Tuned-Model](https://github.com/Prajwo0l/Fine-Tuned-Model) — LLM
   fine-tuning experiments (QLoRA, SFT, DPO) on TinyLlama, trained on free
   Colab GPUs.
