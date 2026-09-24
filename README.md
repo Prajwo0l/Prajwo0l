@@ -29,21 +29,18 @@ to production RAG deployments and eval-driven infrastructure.
 - [Medical-Chatbot](https://github.com/Prajwo0l/Medical-Chatbot) — a RAG
   chatbot answering questions from real medical documents, deployed on
   AWS with full CI/CD.
-- [Research-Agent](https://github.com/Prajwo0l/Research-Agent) — a
-  modular, agent-based system for end-to-end academic research and
-  long-form writing, with three independent components coordinated by a
-  central orchestrator.
-- [ai-resume-analyzer](https://github.com/Prajwo0l/ai-resume-analyzer) —
-  analyzes resumes against job descriptions to detect skill gaps, match
-  scores, and improvement suggestions, running entirely locally with NER
-  and local LLMs.
+- [Fine-Tuned-Model](https://github.com/Prajwo0l/Fine-Tuned-Model) — LLM
+  fine-tuning experiments (QLoRA, SFT, DPO) on TinyLlama, trained on free
+  Colab GPUs.
 - [MCP-Server](https://github.com/Prajwo0l/MCP-Server) — a local-first
   Model Context Protocol server for expense tracking, exposing tools any
   MCP-compatible client can call, with Google Calendar sync and a
   budget/alerts system.
-- [Fine-Tuned-Model](https://github.com/Prajwo0l/Fine-Tuned-Model) — LLM
-  fine-tuning experiments (QLoRA, SFT, DPO) on TinyLlama, trained on free
-  Colab GPUs.
+
+**Also:** [Research-Agent](https://github.com/Prajwo0l/Research-Agent), a
+multi-agent system for end-to-end academic research and long-form
+writing, and [ai-resume-analyzer](https://github.com/Prajwo0l/ai-resume-analyzer),
+a fully local resume/job-fit analyzer using NER and local LLMs.
 
 ---
 
@@ -65,18 +62,3 @@ to production RAG deployments and eval-driven infrastructure.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Prajwo0l&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Prajwo0l&show_icons=true&count_private=true&theme=default&hide_border=true" width="49%" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwo0l&layout=compact&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwo0l&layout=compact&theme=default&hide_border=true" width="35%" />
-</picture>
-
-</div>
